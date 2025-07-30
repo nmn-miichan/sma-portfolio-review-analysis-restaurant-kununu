@@ -1,0 +1,245 @@
+{
+  "response": {
+    "image": {
+      "positive_points": [
+        {
+          "point": "Starkes Unternehmensimage und gute Reputation",
+          "count": 16,
+          "references": [
+            {
+              "review_id": "bmwgroup_1",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_35",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_46",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_98",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_114",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_126",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_151",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_168",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_191",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Auf dem Papier als bester Arbeitgeber der Branche anerkannt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gutes Image zieht weiterhin Bewerbungen an",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Stolz auf die Marke und das Unternehmen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Aktive Bemühungen zur Verbesserung des Images",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_190",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Unternehmensimage ist trügerisch ('mehr Schein als Sein')",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_50",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_124",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmensimage hat sich verschlechtert",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_154",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Internes Bild des Unternehmens entspricht nicht dem externen Image",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmen ruht sich auf seinen Lorbeeren aus",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Negative Kundenwahrnehmung der Filiale/des Services",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

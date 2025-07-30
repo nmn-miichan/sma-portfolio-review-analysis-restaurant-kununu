@@ -1,0 +1,781 @@
+{
+  "response": {
+    "arbeitsatmosphaere": {
+      "positive_points": [
+        {
+          "point": "Angenehme und positive Arbeitsatmosphäre",
+          "count": 15,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_23",
+              "employee_type": "Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_59",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Freundliche und angenehme Kollegen",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            }
+          ]
+        },
+        {
+          "point": "Starker Teamzusammenhalt und gute Zusammenarbeit",
+          "count": 19,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_23",
+              "employee_type": "Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_59",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Sehr familiäres Arbeitsumfeld",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_5",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Freundschaftliche und unterstützende Teamatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Sehr gute Arbeitsatmosphäre mit viel Humor",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_52",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gute und lockere Stimmung; größtenteils freundliche Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Offene und wertschätzende Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Gute Arbeitsatmosphäre mit spontanen Aktivitäten und Leichtigkeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_94",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Respektvolle Unternehmenskultur",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Angespannte und frustrierende Arbeitsatmosphäre",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "General"
+            },
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Technik / Service"
+            },
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_75",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende positive Arbeitsatmosphäre",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsatmosphäre geprägt von Druck und Stress",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsatmosphäre beeinträchtigt durch mangelndes Vertrauen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsatmosphäre verschlechtert sich durch Desinformation und schlecht gesetzte Ziele",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Massiver Druck bis hin zum Mobbing durch HR und Vorgesetzte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Wenig motivierende Arbeitsatmosphäre",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "General"
+            }
+          ]
+        },
+        {
+          "point": "Unangenehme Arbeitsatmosphäre mit erzwungener Positivität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            }
+          ]
+        },
+        {
+          "point": "Vorfälle in der Arbeitsatmosphäre werden ignoriert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_74",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Schlechter Kollegenzusammenhalt durch faule und anschwärzende Kollegen",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_74",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Kollegenzusammenhalt durch Silos beeinträchtigt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Schwacher Kollegenzusammenhalt im eigenen Team",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Kollegenzusammenhalt nur in Notsituationen gegeben",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Kollegenzusammenhalt schwierig, teilweise wird Hilfe untersagt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            }
+          ]
+        },
+        {
+          "point": "Distanziertes und hierarchisches Umfeld im Führungskontext",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "General"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnder Kollegenzusammenhalt durch Einzelinteresse und fehlende Solidarität",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "General"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnder Teamzusammenhalt gegen Druck und Einschränkungen (Ausgrenzung von Kritikern)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Kollegenzusammenhalt nur auf der gleichen Ebene und darunter gegeben",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_35",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnder Team-Spirit und fehlende persönliche Interaktion, besonders für neue Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kollegenzusammenhalt geht verloren",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Nachlassender Kollegenzusammenhalt und fehlende Unterstützung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Inkonsistenter Kollegenzusammenhalt je nach Team",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Negative Beeinflussung der Arbeitsatmosphäre durch einzelne Kollegen (Lästereien, Vergiftung)",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_68",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Belastung für produktionsnahe Kollegen beeinflusst Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsatmosphäre beeinträchtigt durch Großraumbüros (Lärm, schlechte Belüftung, fehlende festen Sitzplätze)",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_13",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Service"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Manipulative Führungskräfte beeinträchtigen die Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Unfairness des Managements führt zu Vertrauensverlust und beeinträchtigt Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Distanz zur leitenden Führungsebene und Perspektivlosigkeit beeinträchtigen die Stimmung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Zunehmende Arbeitsverdichtung führt zu schlechter Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsatmosphäre negativ beeinflusst durch Verlagerung von Stellen ins Ausland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Schwierige Arbeitsatmosphäre in übergeordneten Abteilungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

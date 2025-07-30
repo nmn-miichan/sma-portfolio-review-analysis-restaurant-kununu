@@ -1,0 +1,931 @@
+{
+  "response": {
+    "arbeitsatmosphaere": {
+      "positive_points": [
+        {
+          "point": "Freundliche und angenehme Kollegen",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_65",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Starker Teamzusammenhalt und gute Zusammenarbeit",
+          "count": 37,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_28",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_41",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_60",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Angenehme und positive Arbeitsatmosphäre",
+          "count": 22,
+          "references": [
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_28",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_36",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "sap_39",
+              "employee_type": "Not specified",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_55",
+              "employee_type": "Praktikant/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_76",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Eigenverantwortung und Gestaltungsfreiheit",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_45",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_67",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gutes Arbeitsumfeld",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            }
+          ]
+        },
+        {
+          "point": "Tolle Büros",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_65",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Werkstudenten fühlen sich im Team voll integriert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Tolle Communities",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_74",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Arbeitsatmosphäre hat sich stark verschlechtert",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_92",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            }
+          ]
+        },
+        {
+          "point": "Zunehmende Ellenbogenmentalität und Konkurrenzdruck",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_53",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unsicherheit und Unruhe durch ständige und sinnlose Reorganisationen",
+          "count": 10,
+          "references": [
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_30",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_84",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung und Demotivation der Mitarbeiter",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an Authentizität und Vertrauen in der Unternehmenskultur",
+          "count": 15,
+          "references": [
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_39",
+              "employee_type": "Not specified",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Laute Büros und mangelhafte Büroausstattung durch Rückkehr ins Büro (RTO)",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Abnehmender Kollegenzusammenhalt",
+          "count": 10,
+          "references": [
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Management/Führung beeinträchtigt Atmosphäre",
+          "count": 10,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kein Teamgefühl in virtuellen Teams",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_42",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Zwang zu Schulungen trotz hoher Überstundenlast",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Not specified"
+            }
+          ]
+        },
+        {
+          "point": "Ältere männliche Kollegen werden ersetzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter lassen sich im Tagesablauf durchziehen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Häufige Vorgesetztenwechsel",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

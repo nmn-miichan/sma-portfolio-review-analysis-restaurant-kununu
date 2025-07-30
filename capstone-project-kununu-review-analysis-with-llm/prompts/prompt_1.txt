@@ -1,0 +1,80 @@
+# Review-Analyse für Unternehmensinsights
+
+## Aufgabe
+Analysiere die bereitgestellten Mitarbeiter-Reviews systematisch und extrahiere positive und kritische Punkte für die definierten Kategorien. Erstelle eine strukturierte JSON-Ausgabe (results.json) mit detaillierten Insights und Häufigkeitsanalysen.
+
+## Kategorien für die Analyse
+1. **Arbeitsatmosphäre** (Teamgeist, Kollegialität, Betriebsklima)
+
+## Analyseprozess
+1. **Initialisierung**: Beginne mit einer leeren results.json Struktur
+2. **Iterative Analyse**: 
+   - Analysiere jeden Review einzeln
+   - Prüfe für jeden extrahierten Punkt, ob er bereits in results.json existiert. Behandle dabei semantisch ähnliche Aussagen als denselben Punkt. Beispiel: "schlechte Bezahlung" = "niedriger Lohn" = "unterdurchschnittliches Gehalt"
+   - **Falls vorhanden**: Erhöhe count um 1 und füge neue Referenz zu references hinzu
+   - **Falls neu**: Erstelle neuen Punkt mit count = 1 und erster Referenz
+3. **Vollständigkeit**: Fahre fort bis alle Reviews analysiert sind
+
+## Diese Textabschnitte sollen ebenfalls analysiert werden
+- "Gut am Arbeitgeber finde ich"
+- "Schlecht am Arbeitgeber finde ich" 
+- "Verbesserungsvorschläge"
+
+## Extraktionsregeln
+1. **Spezifität**: Jeder Punkt sollte ein konkreter und eindeutiger Satz sein; die Aussagen der Reviews können in Standardtexte umformuliert werden.
+2. **Präzision**: Beschreibe Punkte klar und verständlich
+3. **Sprache**: Alle Sätze sind ausschließlich auf Deutsch zu verfassen; bei Bedarf übersetze sie.
+
+## Wichtige Zusammenfassungsregeln
+Behandle semantisch ähnliche Aussagen als denselben Punkt
+###**Arbeitsatmosphäre:**
+- **Positive Kollegen-Beschreibungen**: "Angenehme Kollegen", "Nette Kollegen", "Freundliche Kollegen", "Sehr freundliches Team" → "Freundliche und angenehme Kollegen"
+- **Teamzusammenhalt-Varianten**: "Guter Teamzusammenhalt", "Sehr starker Zusammenhalt", "Hervorragende Teamzusammenarbeit" → "Starker Teamzusammenhalt und gute Zusammenarbeit"
+- **Atmosphäre-Beschreibungen**: "Angenehme Arbeitsatmosphäre", "Gute Arbeitsatmosphäre", "Positive Atmosphäre" → "Angenehme und positive Arbeitsatmosphäre"
+
+## Gewünschte JSON-Struktur
+"arbeitsatmosphaere": {
+  "positive_points": [
+    {
+      "point": "Sehr gute Teamarbeit und Kollegialität",
+      "count": 3,
+      "references": [
+        {
+          "review_id": Firmenname_1,
+          "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+          "field": "Finanz / Controlling",
+        },
+        {
+          "review_id": Firmenname_13,
+          "employee_type": "Angestellte/r oder Arbeiter/in",
+          "field": "Vertrieb / Verkauf",
+        },
+        {
+          "review_id": Firmenname_24,
+          "employee_type": "Führungskraft",
+          "field": "IT",
+        }
+      ]
+    }
+  ],
+  "critical_points": [
+    {
+      "point": "Hoher Konkurrenzdruck zwischen Kollegen",
+      "count": 2,
+      "references": [
+        {
+          "review_id": Firmenname_7,
+          "employee_type": "Angestellte/r oder Arbeiter/in",
+          "field": "Forschung / Entwicklung",
+        },
+        {
+          "review_id": Firmenname_18,
+          "employee_type": "Ex-Führungskraft",
+          "field": "Marketing / Produktmanagement",
+        }
+      ]
+    }
+  ]
+},       
+
+Gib einfach den Inhalt der JSON-Datei aus. Füge keine Kommentare oder andere Sätze hinzu, da ich die Antwort direkt in die JSON-Datei schreiben werde.

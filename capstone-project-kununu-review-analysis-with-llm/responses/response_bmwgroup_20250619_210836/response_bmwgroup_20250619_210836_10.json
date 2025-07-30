@@ -1,0 +1,516 @@
+{
+  "response": {
+    "kommunikation": {
+      "positive_points": [
+        {
+          "point": "Gute und effektive interne Kommunikation",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_91",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_134",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_200",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Offene und ehrliche Kommunikation",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_191",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Transparente Kommunikation und Informationsfluss über strategische Ziele und aktuelle Geschehnisse",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_16",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_184",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_199",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Regelmäßiger Austausch und Meetings",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_168",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Kommunikation im Team findet auf Augenhöhe statt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Wertschätzende Kommunikation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_139",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Top-down Kommunikation funktioniert gut",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_93",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Kommunikation ist durch Vorgaben oder den Betriebsrat einigermaßen gut gewährleistet",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Mangelhafte oder nicht vorhandene Kommunikation (allgemein)",
+          "count": 13,
+          "references": [
+            {
+              "review_id": "bmwgroup_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_19",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_52",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_125",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_160",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_189",
+              "employee_type": "Führungskraft",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_198",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Transparenz und unzureichender Informationsfluss",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "bmwgroup_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_23",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Probleme mit der Qualität und dem Inhalt der Kommunikation",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelhafte oder ineffektive Kommunikation durch Führungskräfte",
+          "count": 13,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_29",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_30",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_35",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_37",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_103",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_124",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Defizite in der abteilungsübergreifenden Kommunikation und Koordination",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_101",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_125",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_151",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_184",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an klaren Strukturen und technischen Kompetenzen behindert Kommunikation in IT-Bereichen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Kein professionelles Onboarding oder Einarbeitungskonzept mit ausreichender Informationsbereitstellung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Zu viele Meetings",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_91",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

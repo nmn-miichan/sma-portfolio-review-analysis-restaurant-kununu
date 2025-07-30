@@ -1,0 +1,309 @@
+{
+  "response": {
+    "umgang_aeltere_kollegen": {
+      "positive_points": [
+        {
+          "point": "Gute Programme für Altersteilzeit sind vorhanden.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Der Umgang mit älteren/erfahrenen Kollegen ist respektvoll, wertschätzend und gleichbehandelnd.",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen sind gut integriert und es wird kein Unterschied gemacht.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Ältere und erfahrene Mitarbeiter werden als nicht mehr erwünscht wahrgenommen und gezielt aus dem Unternehmen gedrängt oder zum vorzeitigen Ausscheiden ermutigt.",
+          "count": 18,
+          "references": [
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_39",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_53",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_60",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_84",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen leiden unter mangelnder Wertschätzung und fehlender Achtung.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Es gibt kaum oder keine Karriere- und Entwicklungsmöglichkeiten für ältere/erfahrene Kollegen.",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_60",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_92",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden bei Gehaltserhöhungen und Benefits benachteiligt.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden gemobbt.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Altersdiskriminierung ist spürbar oder wird explizit genannt.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_60",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1258 @@
+{
+  "response": {
+    "sonstiges": {
+      "positive_points": [
+        {
+          "point": "Gute Betriebskantine und kostenloses Essen/Kaffee",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "sap_45",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_55",
+              "employee_type": "Praktikant/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_59",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_76",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Hoher Gestaltungsspielraum und eigenverantwortliches Arbeiten",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_67",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Gute Freizeitmöglichkeiten und Sportbereiche",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Internationales und innovatives Arbeitsumfeld",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Sicherer Arbeitsplatz",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Offene Kultur und gegenseitige Hilfestellung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Viel Potenzial des Unternehmens",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_84",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Nützlicher Job schafft Mehrwert für Kunden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_76",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Empfindung des Unternehmens als Familie",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fähigkeit Top-Talente anzuziehen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unterstützung anderer Unternehmen weltweit durch die eigene Arbeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_35",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Mangelnde Wertschätzung und fehlender Respekt gegenüber Mitarbeitern",
+          "count": 17,
+          "references": [
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_66",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_67",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ständige und destabilisierende Reorganisationen schaffen Unruhe",
+          "count": 13,
+          "references": [
+            {
+              "review_id": "sap_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_30",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_84",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fokus auf Shareholder Value anstatt Mitarbeiterwohl",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "sap_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_74",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmenskultur geprägt von Seilschaften und Vetternwirtschaft",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Sparmaßnahmen und Sparkultur auf Kosten der Mitarbeiter",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Rigide, intransparente und unfaire Leistungsbewertungen",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_53",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Etablierung einer Misstrauenskultur",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter werden als notwendiges Übel betrachtet",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Vertrauen in die eigenen Mitarbeiter",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmenskultur, in der Oberflächlichkeit über Sacharbeit siegt",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Klarheit bei Hard Skills und Verantwortlichkeiten",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ungenügender Schutz und fehlende Rehabilitation von Mitarbeitern",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Übermäßige Bürokratie",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Strategische Verlagerung von Aufgaben in Niedriglohnländer",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Management hat den Bezug zur Belegschaft verloren",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Unsicherheit und Nervosität unter Mitarbeitern nach Entlassungen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Entlassung deutscher Talente zugunsten externer Einstellungen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Probleme und Fehler werden an die unterste Mitarbeiterebene weitergegeben",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            },
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Nicht empfehlenswert für Berufseinsteiger",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_36",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Etablierung einer 'Hire and Fire' Mentalität",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Hohes Misstrauen gegenüber dem Top-Management",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Rauer Ton gegenüber Mitarbeitern",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Kritik jeder Art ist unerwünscht",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Überdimensionierter Wasserkopf im Management",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Fehlendes Konfliktmanagement",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Effektives Arbeiten ist ohne Management-Involvierung einfacher",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Toleranz gegenüber Minderleistern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Geringschätzung von Entwicklern durch Manager und Architekten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Desinteresse an Ergebnissen; Fokus auf Prozess und Stimmung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Wegfall informeller Kommunikationskanäle durch Remote Work",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gute Führungskräfte leiden unter dysfunktionalem Top-Management",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Profilierung und Schaulaufen in der Vorstandsetage",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Erfahrene Mitarbeiter erhalten zu wenig Gehör",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Investition in Beratungskollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Falsches Anreizsystem ohne Leistungsprinzip",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Vertrieb verkauft beliebige Produkte ohne Kundenfokus",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Redundante Produkte im Portfolio",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Ungenügende Produktdokumentation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Überlastung von Produktownern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Bevorstehendes Outsourcing",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_100",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Kündigung bei Erwähnung von psychischen Problemen aufgrund hoher Arbeitslast",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_100",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "HR-Funktionen in Deutschland sind bereits nach Indien ausgelagert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_100",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Gehaltsgefälle zwischen Vorstand/Aktionären und Mitarbeitern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende schnelle und transparente Prozesse",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Ständige Überarbeitung von HR-Prozessen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Neues Manager-Modell ist Verschlimmbesserung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Niemand interessiert sich für persönliche Karriereförderung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Führungsriege voller Selbstoptimierer",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Propaganda-haftigkeit von Marketing und HR",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmenskultur belohnt den Erfolg der Vorgesetzten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Interesse an Ideen, Fokus auf Umsatz",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_39",
+              "employee_type": "Unbekannt",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Verlust ehemals starker Unternehmenswerte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Übermaß an Reden, zu wenig Handeln in der Führung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Manager handeln risikoavers",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Finanzielle Stabilität auf Kosten von Innovation und Kultur",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unethische Beförderung von Führungskräften",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Ineffektiver Betriebsrat und HR bei Mitarbeiterschutz",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Problematische und voreingenommene Rekrutierungspraktiken",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Hoher Stress und Demotivation für engagierte Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Langsame Innovation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Marketing übertrifft praktischen Wert der Produkte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Aggressive Verkaufstaktiken untergraben das Kundenvertrauen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unfaire Behandlung bei Abfindungsprogrammen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Zwang zu Schulungen trotz hoher Arbeitslast",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Unangemessen hohe Stundensätze für Kunden führen zu Abwanderung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Unbekannt"
+            }
+          ]
+        },
+        {
+          "point": "Aufgabe von guten Policies aus vorauseilendem Gehorsam (z.B. Frauenquote)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unsicherheit bei Kunden durch interne Unternehmensprobleme",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

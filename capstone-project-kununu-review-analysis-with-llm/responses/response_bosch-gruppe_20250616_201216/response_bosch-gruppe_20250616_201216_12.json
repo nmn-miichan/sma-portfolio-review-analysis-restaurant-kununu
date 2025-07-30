@@ -1,0 +1,681 @@
+{
+  "response": {
+    "interessante_aufgaben": {
+      "positive_points": [
+        {
+          "point": "Vielfältige, anspruchsvolle und interessante Aufgaben",
+          "count": 23,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": "Unbekannt",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": "Unbekannt",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Möglichkeiten zur Eigenverantwortung und aktiven Arbeitsgestaltung",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": "Unbekannt",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_23",
+              "employee_type": "Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_94",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Gute und vielfältige Entwicklungs- und Lernmöglichkeiten",
+          "count": 23,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_5",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_23",
+              "employee_type": "Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Monotone, eintönige oder als sinnlos empfundene Aufgaben",
+          "count": 25,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Kundenservice"
+            },
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_68",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_74",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Kundenservice"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende oder eingeschränkte Karriere- und Entwicklungsmöglichkeiten",
+          "count": 33,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Undefined"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_68",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Bürokratie, überladene Prozesse und fehlende Unterstützung hemmen die Aufgabenerfüllung und Innovation",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_68",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

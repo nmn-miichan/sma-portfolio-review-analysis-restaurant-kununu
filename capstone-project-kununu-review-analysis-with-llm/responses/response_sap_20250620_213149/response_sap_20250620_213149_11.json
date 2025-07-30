@@ -1,0 +1,484 @@
+{
+  "response": {
+    "gleichberechtigung": {
+      "positive_points": [
+        {
+          "point": "Gleichberechtigung wird grundsätzlich gelebt und ernst genommen.",
+          "count": 11,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Das Unternehmen fördert Vielfalt und besitzt eine offene Diversity-Kultur.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_98",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Umgang mit älteren Kollegen ist gut und wertschätzend, ohne Nachteile.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Frauen werden intensiv gefördert und haben gute Entwicklungschancen.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Ungleichheit und Ungerechtigkeit bei Gehältern, insbesondere der Gender-Pay-Gap.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Gleichberechtigung ist nicht konsequent umgesetzt, nur ein Lippenbekenntnis oder dem Aktienkurs untergeordnet.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Männer werden bei Beförderungen bevorzugt oder stoßen an eine 'Boys Club'-Mentalität.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Programme zur Frauenförderung sind gescheitert, wurden eingestellt oder führen zu unerwünschten Effekten (z.B. Bevorzugung aufgrund von Quoten statt Kompetenz, Benachteiligung anderer Gruppen).",
+          "count": 11,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_45",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Frauen stoßen an eine 'Glasdecke' oder haben mangelnde Aufstiegschancen, insbesondere in oberen Führungsebenen oder in Teilzeit.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_39",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Altersdiskriminierung ist verbreitet; ältere Kollegen werden aus der Firma gedrängt, nicht wertgeschätzt oder haben kaum Entwicklungsmöglichkeiten.",
+          "count": 16,
+          "references": [
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_53",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_60",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_84",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Karrierechancen und Gehaltsentwicklung hängen von Netzwerken/Beziehungen (Vetternwirtschaft) statt von Leistung/Kompetenz ab.",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_67",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Die Return-to-Office (RTO) Regelung schränkt die Gleichberechtigung ein.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "DEI (Diversity, Equity, Inclusion) Initiativen sind nur eine Fassade oder Show.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_23",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Alters- und Aussehensdiskriminierung bei Frauen im Vertrieb.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_39",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "response": {
+    "gleichberechtigung": {
+      "positive_points": [
+        {
+          "point": "Gleichberechtigung und Diversität werden gut oder vorbildlich umgesetzt, mit gleichen Chancen für alle.",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_8",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_23",
+              "employee_type": "Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Jeder Mitarbeiter wird grundsätzlich gleich behandelt.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gute Vertretung von Frauen in der Entwicklung und in Führungspositionen.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Die Gleichberechtigung ist angemessen.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Es gibt keine Probleme bezüglich der Gleichberechtigung.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Frauen werden bei Beförderungen oder in der Förderung massiv bevorzugt, teils über Qualifikation hinweg.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Ungleichbehandlung und Bevorzugung ausgewählter oder bestimmter Mitarbeiter (z.B. Trainees, ältere Kollegen, 'Vitamin B') führen zu einem Zwei-Klassen-System.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Es gibt keine gelebte Gleichberechtigung oder sie ist nur ein Lippenbekenntnis.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Männer fühlen sich aufgrund von Bevorzugung anderer Gruppen benachteiligt oder haben keine Karrierechancen.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Bestimmte Gruppen (z.B. befristete oder ausländische Mitarbeiter) werden benachteiligt.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Weibliche Mitarbeiterinnen erleben sexuelle Belästigung und werden nur bei Duldung gefördert.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Unzureichende Rücksichtnahme und Unterstützung für schwerbehinderte Mitarbeiter; gesetzlicher Schutz wird ignoriert.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Diversität und Internationalität im Management, das von einer Männerbürokratie dominiert wird.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Belegschaft ist nicht paritätisch besetzt, und weibliche Führungskräfte sind nicht im Top-Management vertreten.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Beförderungspolitik bevorzugt Frauen, Mitarbeiter aus Low-Cost-Ländern und jüngere Mitarbeiter.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Der Männeranteil ist zu hoch, was auf mangelnde Geschlechtergerechtigkeit hindeutet.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Es gibt einen zu starken Fokus auf 'woke' Themen und politische Korrektheit, was den praktischen Aspekt der Gleichbehandlung beeinträchtigt.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Die Gleichberechtigung ist abhängig vom Unternehmensbereich und den Vorgesetzten.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

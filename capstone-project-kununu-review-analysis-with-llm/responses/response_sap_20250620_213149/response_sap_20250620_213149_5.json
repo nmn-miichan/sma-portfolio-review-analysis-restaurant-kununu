@@ -1,0 +1,995 @@
+{
+  "response": {
+    "gehalt_sozialleistungen": {
+      "positive_points": [
+        {
+          "point": "Umfassende und attraktive Zusatzleistungen (z.B. kostenloses Mittagessen, Firmenwagen, Aktienbeteiligungen, Sportbereiche, erweiterte Lohnfortzahlung im Krankheitsfall)",
+          "count": 21,
+          "references": [
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_30",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "sap_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_59",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_74",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_78",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_99",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gutes oder überdurchschnittliches Gehalt und attraktive Benefits",
+          "count": 18,
+          "references": [
+            {
+              "review_id": "sap_4",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_28",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_39",
+              "employee_type": null,
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "sap_45",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_62",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_68",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gutes oder überdurchschnittliches Gehalt für Werkstudenten und Praktikanten",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_14",
+              "employee_type": "Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_55",
+              "employee_type": "Praktikant/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_80",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Starke finanzielle Stabilität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Attraktive Aktienbeteiligungsprogramme (Moves)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Gute Einstiegsgehälter für Berufseinsteiger",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            }
+          ]
+        },
+        {
+          "point": "TOP-Leistungen werden entsprechend honoriert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Gehaltserhöhungen sind zu gering, gleichen die Inflation nicht aus und führen zu Reallohnverlust",
+          "count": 21,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_30",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_53",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_58",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_65",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_66",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt ist unterdurchschnittlich oder nicht mehr konkurrenzfähig/zeitgemäß",
+          "count": 16,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_21",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_29",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_32",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_49",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ungerechte Gewinnverteilung und mangelnde Beteiligung der Mitarbeiter am Unternehmenserfolg",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "sap_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_59",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Benefits und Zusatzleistungen werden gekürzt/gestrichen oder sind unattraktiv geworden",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_12",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_70",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Gehaltsentwicklung trotz steigender Anforderungen",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "sap_9",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_25",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_52",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_63",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gehaltssystem ist problematisch, intransparent und überarbeitungsbedürftig",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "sap_35",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_86",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ungleichheit und Ungerechtigkeit bei Gehältern (z.B. Gender-Pay-Gap, große Gehaltsunterschiede)",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "sap_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Budget zur Honorierung von Leistungen oder Beförderungen",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "sap_13",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_65",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_83",
+              "employee_type": "Führungskraft",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Geringe Gehaltserhöhungen im Vergleich zu hohen Vorstandsgehältern",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "sap_33",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt für Werkstudenten ist zu gering",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_19",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_26",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "sap_75",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Sparmaßnahmen zu Lasten der Mitarbeiter",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "sap_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "N/A"
+            },
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Neue Stellen werden mit geringerem Gehalt als zuvor besetzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Höhere Produktivität oder Leistung wird nicht durch angemessene Gehaltserhöhungen anerkannt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "sap_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Variable Gehaltsanteile werden gekürzt oder gestrichen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ständige Änderungen an der variablen Vergütung und den HR-Prozessen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Entlohnung bei durchschnittlicher Leistung ist nicht wettbewerbsfähig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_77",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Starker Fokus auf Aktienbeteiligung statt angemessener Erhöhung des Grundgehalts",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitgeber wird als geizig bei Gehalt und Benefits empfunden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt/Sozialleistungen werden als unzureichend oder Witz empfunden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Gute Gehälter nur durch Verhandlung bei Einstieg oder Vitamin B",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter fühlen sich bei Gehalt und Benefits als Kostenfaktor",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Zusätzliche Benefits können problematisches Gehaltssystem nicht aufwiegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt für IT-Mitarbeiter an bestimmten Standorten ist zu schwach",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "sap_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

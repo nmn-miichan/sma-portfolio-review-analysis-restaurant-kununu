@@ -1,0 +1,750 @@
+{
+  "response": {
+    "vorgesetztenverhalten": {
+      "positive_points": [
+        {
+          "point": "Vorgesetzte zeigen einen fairen, transparenten und respektvollen Umgang und agieren auf Augenhöhe.",
+          "count": 16,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_168",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_179",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_184",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_198",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_199",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_200",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte/Ausbilder sind nett, hilfsbereit und fürsorglich.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            },
+            {
+              "review_id": "bmwgroup_86",
+              "employee_type": "Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_136",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte/Führungskräfte werden als gut oder sehr gut bewertet (generelle Zufriedenheit).",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_154",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_167",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte unterstützen und fördern Mitarbeiter.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte ermöglichen offene Kommunikation und sind aufnahmefähig für Input.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte verfolgen einen modernen Führungsstil.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_16",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte verfolgen Ziele stringent.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Top Ausbilder im Kfz-Bereich.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_128",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Mangelnde Führungskompetenz, Professionalität und/oder Fachwissen bei Vorgesetzten, oft geprägt von Egoismus und mangelnder Reife.",
+          "count": 32,
+          "references": [
+            {
+              "review_id": "bmwgroup_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_19",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_21",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_30",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_32",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_35",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_37",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_46",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_66",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_67",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_126",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_134",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte/Ausbilder demütigen Mitarbeiter, werten sie ab oder beleidigen sie.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_45",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_173",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte ignorieren Probleme, Anliegen oder Feedback von Mitarbeitern, oder geben selbst mangelhaftes/destruktives Feedback.",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_103",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_151",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_171",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte sind überlastet und/oder schwer erreichbar.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_29",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_181",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte respektieren die Freizeit/Work-Life-Balance der Mitarbeiter nicht und üben Druck bezüglich Anwesenheit aus.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_167",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte zeigen mangelndes Vertrauen und üben übermäßige Kontrolle (Micromanagement) aus.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte/Ausbilder behandeln Auszubildende und junge Mitarbeiter mangelhaft, respektlos, demütigend oder unfaire Weise.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            },
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_64",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte bevorzugen bestimmte Mitarbeitergruppen oder handeln bei Beförderungen/Übernahmen nach Quote statt Leistung.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_45",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_76",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte verwehren Mitarbeitern Aufstiegschancen oder diese sind stark von ihnen abhängig.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_177",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Veraltete, unflexible oder übermäßig druckorientierte Führungsstile.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_103",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Führungskräfte vergiften das Arbeitsklima.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter werden von der Führung als Kostenfaktor statt als Menschen behandelt.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetztenverhalten wird als katastrophal oder unmenschlich beschrieben.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Notwendigkeit des Austauschs/besseren Auswahl von Führungskräften.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_32",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde klare Anweisungen oder Basisinformationen von Vorgesetzten.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Obere Führungsebenen leben die Unternehmenskultur nicht vor.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_167",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Zuhören seitens der Führungskräfte.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_1",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

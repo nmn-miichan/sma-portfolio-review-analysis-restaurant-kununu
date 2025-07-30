@@ -1,0 +1,221 @@
+{
+  "response": {
+    "work_life_balance": {
+      "positive_points": [
+        {
+          "point": "Sehr gute Vereinbarkeit von Familie und Beruf",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "draeger_1",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Hohe Flexibilität in der Arbeitsgestaltung und Offenheit für neue Arbeitsmodelle",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "draeger_2",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "draeger_23",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "draeger_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute Work-Life-Balance durch konkrete Angebote wie 35-Stunden-Woche, Gleitzeit und Homeoffice-Optionen",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "draeger_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "draeger_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "draeger_11",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "draeger_19",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "draeger_44",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "draeger_45",
+              "employee_type": "Auszubildende:r",
+              "field": null
+            },
+            {
+              "review_id": "draeger_49",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Allgemein gute oder passende Work-Life-Balance / Zufriedenheit",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "draeger_3",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "draeger_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "draeger_16",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "draeger_28",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "draeger_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "draeger_35",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "draeger_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Sehr flexible Arbeitszeiten im Vertrieb (mit Vor- und Nachteilen)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "draeger_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Work-Life-Balance ist stark vom Vorgesetzten abhängig und flexible Arbeitsmodelle werden nicht überall gelebt/durchgesetzt",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "draeger_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "draeger_42",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Homeoffice-Nutzung wird nicht gerne gesehen oder es gibt keine klare Regelung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "draeger_7",
+              "employee_type": "Ex-Praktikant/in",
+              "field": null
+            },
+            {
+              "review_id": "draeger_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Hoher Workload / Urlaub während Projekten nicht möglich",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "draeger_12",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "draeger_43",
+              "employee_type": "Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "draeger_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Geschäftsführung"
+            }
+          ]
+        },
+        {
+          "point": "Work-Life-Balance-Möglichkeiten sind nur für wenige Mitarbeiter zugänglich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "draeger_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Zwangsweise Rückkehr ins Büro nach Corona",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "draeger_40",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Keine passende Work-Life-Balance für Arbeitnehmer, die eine 4-Tage-Woche mit fester Arbeitszeit suchen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "draeger_18",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

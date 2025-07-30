@@ -1,0 +1,581 @@
+{
+  "response": {
+    "umwelt_sozialbewusstsein": {
+      "positive_points": [
+        {
+          "point": "Starkes Umwelt- und Sozialbewusstsein mit Initiativen für Nachhaltigkeit",
+          "count": 11,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gute Sozialleistungen und soziale Kompetenz",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_78",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Produkte sind klimaneutral und auf Umweltschutz ausgerichtet",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Effektive Mülltrennung in den Büros",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Propagiertes Umwelt- und Sozialbewusstsein sowie Unternehmenswerte werden nicht konsequent gelebt (Greenwashing)",
+          "count": 16,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_35",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Verlagerung von Arbeitsplätzen und Know-how ins Ausland zugunsten von Billiglohnländern, was die Jobsicherheit beeinträchtigt",
+          "count": 13,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung und unzureichende Fürsorge für Mitarbeiter, Fokus auf Rendite statt Menschlichkeit",
+          "count": 22,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Probleme mit Gleichberechtigung und Diversität, einschließlich Bevorzugung/Benachteiligung bestimmter Gruppen (außer Alter)",
+          "count": 15,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden als Ballast gesehen, ihre Erfahrung nicht geschätzt und teils zum Verlassen des Unternehmens gedrängt (Altersdiskriminierung)",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_34",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Veraltete oder unzureichende technische Ausstattung und Arbeitsbedingungen",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Bevorzugung von papierbasierten Gehaltsnachweisen, obwohl eine digitale, umweltschonendere Option möglich wäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

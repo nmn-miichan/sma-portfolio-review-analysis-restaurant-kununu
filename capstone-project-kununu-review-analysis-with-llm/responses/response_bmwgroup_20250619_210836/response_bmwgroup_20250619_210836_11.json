@@ -1,0 +1,438 @@
+{
+  "response": {
+    "gleichberechtigung": {
+      "positive_points": [
+        {
+          "point": "Gute und umgesetzte Gleichberechtigung für alle Mitarbeiter",
+          "count": 12,
+          "references": [
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_99",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_113",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_168",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_200",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gleichberechtigung verbessert sich stetig",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_16",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Förderung von Frauen und Präsenz in Führungspositionen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Aktiver Einsatz von Interessenvertretungen für Gleichbehandlung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Vielfalt und internationaler Zusammenhalt unter den Mitarbeitern",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_132",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_135",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Allgemein mangelnde Gleichberechtigung oder ungenügende Gleichbehandlung",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Frauenfeindliches Umfeld und Diskriminierung von Frauen (mangelnde Aufstiegschancen, Nicht-Ernstgenommen-Werden)",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_72",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_75",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_160",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Bevorzugung von Frauen (oftmals bei geringerer Qualifikation oder zur Quotenfüllung)",
+          "count": 10,
+          "references": [
+            {
+              "review_id": "bmwgroup_19",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_30",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_105",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_118",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_158",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Karrierechancen und Benachteiligung für Männer (aufgrund falsch verstandener Gleichberechtigung)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_122",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Existenz einer Mehr-/Zwei-Klassen-Gesellschaft und Ungleichbehandlung von externen/Zeitarbeitskräften",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_29",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_35",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_37",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_118",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Beförderungen/Karrierechancen basieren auf Vetternwirtschaft/Beziehungen statt Leistung",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_45",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_76",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_118",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Diskriminierung oder schlechter Umgang aufgrund von Herkunft, Sprache oder Alter",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_42",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_102",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_113",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_118",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Sozialverständnis oder Probleme bei der Umsetzung von Gleichberechtigung im Großkonzern",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

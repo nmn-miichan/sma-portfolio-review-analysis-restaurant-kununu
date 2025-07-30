@@ -1,0 +1,937 @@
+{
+  "response": {
+    "gehalt_sozialleistungen": {
+      "positive_points": [
+        {
+          "point": "Das Gehalt ist gut, überdurchschnittlich oder sehr gut.",
+          "count": 63,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            },
+            {
+              "review_id": "bmwgroup_4",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_8",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_13",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_31",
+              "employee_type": "Führungskraft",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_39",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_45",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_46",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_49",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_64",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_67",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_72",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_76",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_82",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_85",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_86",
+              "employee_type": "Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_93",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_99",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_101",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_102",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_110",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_112",
+              "employee_type": "Führungskraft",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bmwgroup_114",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_121",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_122",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_122",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_124",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_125",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_128",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_134",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_148",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_150",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_152",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_167",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_177",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_179",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_183",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_186",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_191",
+              "employee_type": "Führungskraft",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_192",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_197",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_198",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Umfassende und attraktive Sozialleistungen sowie Zusatzleistungen (wie Boni, Sonderzahlungen, Weihnachtsgeld, Urlaubsgeld, Erfolgsbeteiligung, Jobrad, Corporate Benefits, Mitarbeiteraktien).",
+          "count": 32,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_80",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_90",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_114",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_121",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_122",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_138",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_150",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_152",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_167",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_171",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_177",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_189",
+              "employee_type": "Führungskraft",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bmwgroup_191",
+              "employee_type": "Führungskraft",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_198",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Langjährige Mitarbeiter erhalten eine gute Vergütung.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Die Gehaltszahlungen erfolgen pünktlich.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_183",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Tarifliche Bezahlung, oft nach IG Metall Tarifvertrag.",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bmwgroup_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Das Gesamtpaket der Vergütung ist stimmig.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_192",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Das Gehalt wird als zu niedrig im Verhältnis zum Workload oder der Leistung empfunden und Gehaltsanpassungen bei mehr Verantwortung fehlen.",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_50",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_132",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_181",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_189",
+              "employee_type": "Führungskraft",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Begrenzte Gehaltsentwicklung und nicht mehr zeitgemäße oder wettbewerbsfähige Vergütung bzw. Benefits.",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_19",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_30",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_190",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Ungleichbehandlung und mangelnde Fairness bei der Gehaltsvergabe, Leistungsbeurteilung und Höherstufung.",
+          "count": 11,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_165",
+              "employee_type": "Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_165",
+              "employee_type": "Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_181",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_198",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Mängel bei der betrieblichen Altersvorsorge oder Ruhegeld (zu gering, keine Anpassung an Inflation, keine Auszahlung).",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_19",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Geringe oder nicht ausreichende Bezahlung für Praktikanten und Auszubildende, die die Lebenshaltungskosten kaum abdeckt.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_136",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt wird als Schmerzensgeld oder reine Aufwandsentschädigung empfunden.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            },
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Hoher Verdienst ist nur durch Schichtarbeit möglich.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_93",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Drohungen seitens der Führungskräfte bezüglich Gehaltskürzungen.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Verschwendung von Ressourcen durch unnötige Firmenwagen für Führungskräfte.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_20",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kosten für Teamevents müssen selbst getragen werden.",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_99",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "unspecified"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende oder unzureichende Urlaubs-, Weihnachts- oder Erfolgsbeteiligungszahlungen.",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_154",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_154",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

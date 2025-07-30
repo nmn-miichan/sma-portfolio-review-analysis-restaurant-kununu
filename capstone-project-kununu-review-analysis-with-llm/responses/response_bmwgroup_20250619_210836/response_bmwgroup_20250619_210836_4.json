@@ -1,0 +1,1039 @@
+{
+  "response": {
+    "karriere_weiterbildung": {
+      "positive_points": [
+        {
+          "point": "Gute/Sehr gute Weiterbildungsmöglichkeiten",
+          "count": 9,
+          "references": [
+            {
+              "review_id": "bmwgroup_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unterschleißheim"
+            },
+            {
+              "review_id": "bmwgroup_119",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_99",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "München"
+            },
+            {
+              "review_id": "bmwgroup_111",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_125",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_164",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Viele Karrierechancen im Konzern und vielfältige Möglichkeiten zur beruflichen Entwicklung",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_75",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_39",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_151",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Karriere- und Weiterentwicklungschancen bei Eigeninitiative und Leistungsbereitschaft",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bmwgroup_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_116",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_192",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_168",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Guter Einblick in Tätigkeiten und Lernmöglichkeiten durch Aufgabenvielfalt (für Studenten/Azubis)",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_86",
+              "employee_type": "Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_130",
+              "employee_type": "Auszubildende:r",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_154",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Umfassende Unterstützung und Wissensvermittlung in der Ausbildung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_60",
+              "employee_type": "Auszubildende:r",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Möglichkeiten zum internen Stellenwechsel",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_121",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_150",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gesicherte Übernahme nach Ausbildung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            }
+          ]
+        },
+        {
+          "point": "Dauerhafte Investitionen in Mitarbeiterentwicklung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_112",
+              "employee_type": "Führungskraft",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Förderung der Entwicklung junger Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_105",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Angebot einer Werkstudentenstelle nach Praktikum",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_86",
+              "employee_type": "Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Karrierechancen sind von persönlichen Beziehungen/Vetternwirtschaft ('Vitamin B/D') abhängig",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            },
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_50",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_81",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_83",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            },
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_173",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_48",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Fehlen einer echten Fachlaufbahn oder unzureichende Anerkennung der Fachkarriere",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_20",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_24",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_176",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Geringe/Keine Karriere- und Übernahmechancen für Zeitarbeitskräfte",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_118",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde/unzureichende Weiterbildungsmöglichkeiten",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_175",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_188",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_181",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes Interesse und fehlende Unterstützung der Ausbilder an der Entwicklung der Auszubildenden",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bmwgroup_153",
+              "employee_type": "Auszubildende:r",
+              "field": "PR / Kommunikation"
+            }
+          ]
+        },
+        {
+          "point": "Belanglose/ausbildungsfremde Aufgaben für Studenten/Auszubildende verhindern relevante Entwicklung",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_42",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Geringe Übernahmequote und mangelnde Wertschätzung für Studenten und Praktikanten",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_107",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_136",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_152",
+              "employee_type": "Werkstudent/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Förderung motivierter oder leistungswilliger Mitarbeiter",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_132",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_146",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_173",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Begrenzte Karriereperspektiven nach Erreichen der höchsten Entgeltstufe (z.B. ERA 12)",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_5",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Intransparente Karriereperspektiven und systemgesteuerte Karriereentwicklung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unterschleißheim"
+            },
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Schwierigkeit, nach Studententätigkeit einen weiterführenden Job zu finden",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_91",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Karriereentwicklung fokussiert zu stark auf akademische Qualifikation statt auf Fähigkeiten/Können",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_89",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bmwgroup_100",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Schwierige Karrierechancen für Männer aufgrund bevorzugter Frauenförderung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bmwgroup_122",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende klare Einarbeitungspläne und unzureichendes Onboarding",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Beförderungen erfolgen nach Quoten statt nach Leistung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Eingeschränkte Aufstiegschancen für Frauen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            },
+            {
+              "review_id": "bmwgroup_196",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Schwierigkeit, eine gute Position zu erreichen und gleichzeitig ein Privatleben zu führen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_2",
+              "employee_type": "Auszubildende:r",
+              "field": "Kfz-Mechatroniker"
+            }
+          ]
+        },
+        {
+          "point": "Leistung wird bei Karriere weniger als Betriebszugehörigkeit anerkannt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_6",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Unterschleißheim"
+            }
+          ]
+        },
+        {
+          "point": "Anträge auf Weiterbildung werden abgelehnt oder sind nur Augenwischerei",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Interne Wechsel führen oft nicht zu tatsächlichen Karriereverbesserungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Karrierechancen sind nur für Top-Leistungsträger zugänglich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_12",
+              "employee_type": "Ex-Auszubildende:r",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildung hauptsächlich auf Web-based Trainings beschränkt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Karriereentwicklung ist stark von der wirtschaftlichen Lage abhängig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_16",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Keine Investition in Mitarbeiterentwicklung aufgrund von Sparmaßnahmen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_29",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiterentwicklung wird nicht gefördert, sondern nur Leistung gefordert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_32",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Karriereentwicklung junger Kollegen wird durch willkürliche Altersgrenzen gehemmt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Keine Seminare oder Weiterbildungen werden gezahlt oder ermöglicht",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende flexible Karrierepläne",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_39",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Eingeschränkte Karriere-/Weiterentwicklung durch fehlende Förderung von Eigeninitiative",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Kein Entwicklungsbudget für Werkstudenten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_42",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Sehr begrenzte Karrierechancen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Wenig Unterstützung für berufliche und finanzielle Karriere",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Führungspositionen werden intransparent oder informell besetzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Personalwesen benachteiligt Mitarbeiter bei der Besetzung höherer Positionen zugunsten eigener Bevorzugter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Sehr sparsame Bereitstellung von Schulungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Langsamer oder schwieriger Prozess zur Festanstellung (insbesondere für Zeitarbeiter)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_85",
+              "employee_type": "Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Zunehmende Verantwortung ohne entsprechende Managementpositionen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_92",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Onboarding-Termine sind langfristig ausgebucht",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an fortgeschrittenen Schulungen in neuen Technologien (z.B. KI/ML/Data Science)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_94",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiterentwicklung ist oft nur durch internen Stellenwechsel möglich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Keine Übernahme von langjährig im Unternehmen tätigen Studenten/Praktikanten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_136",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Keine Förderung von Mitarbeitern im rentennahen Alter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Starre Tarifstrukturen und Seilschaften hemmen die Weiterentwicklung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Ausnutzung von Praktikanten, Werkstudenten und Zeitarbeitskräften mit unrealistischer Hoffnung auf Festanstellung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ineffektive Weiterbildung durch nutzlose Pflichtschulungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Leere Versprechungen zu Karriere/Weiterbildung im Vorstellungsgespräch",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Interner Stellenmarkt nicht zugänglich für Praktikanten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Widersprüchliche Informationen zu Karriereperspektiven nach Praktikum",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Kein Lerneffekt durch die zugewiesenen Aufgaben im Praktikum",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_157",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Befristete Übernahme nach Zeitarbeit, wenn überhaupt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Keine Weiterbildungsaussichten aufgrund von Personalengpässen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Kein Einsatz in anderen Bereichen gewünscht (behindert Entwicklung)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_159",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildung und Studium sind für Frauen nicht karrierefördernd",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Vorgesetzte fördern Frauen nicht trotz Weiterbildungen, männliche Kollegen werden bevorzugt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Interne Weiterentwicklung ist durch Umstrukturierungen erschwert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Production"
+            }
+          ]
+        },
+        {
+          "point": "Ehemals gute Übernahmechancen für Auszubildende sind heute schlecht",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Subjektive und nicht objektive Leistungsbewertungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_170",
+              "employee_type": "Auszubildende:r",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Ausschließlich befristete Verträge im Vertrieb verhindern langfristige Karriereplanung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_171",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unbegründete Nichtverlängerung von befristeten Verträgen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_171",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

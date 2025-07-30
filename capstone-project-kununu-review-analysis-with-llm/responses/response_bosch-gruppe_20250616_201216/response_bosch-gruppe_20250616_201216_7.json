@@ -1,0 +1,201 @@
+{
+  "response": {
+    "umgang_aeltere_kollegen": {
+      "positive_points": [
+        {
+          "point": "Ältere Kollegen werden sehr wertgeschätzt, respektiert, gefördert und ihre Erfahrung sowie ihr Wissen wird aktiv genutzt.",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Der Umgang mit älteren Kollegen ist insgesamt fair und gut, ohne Altersunterschiede zu machen.",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Ältere Mitarbeiter werden als Ballast angesehen und aktiv zum Verlassen des Unternehmens gedrängt oder durch Frühverrentung/Abfindungen abgebaut.",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Altersdiskriminierung und mangelnde Wertschätzung oder Einbindung älterer Kollegen, insbesondere bei Karrierechancen und Projekten.",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_34",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unfaire Bevorzugung oder ungleichmäßige Belastung älterer Kollegen, die zu Lasten anderer geht.",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Allgemeine negative Wahrnehmung, unzureichende Unterstützung oder schlechte Arbeitsbedingungen für ältere Kollegen.",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Customer Service"
+            },
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

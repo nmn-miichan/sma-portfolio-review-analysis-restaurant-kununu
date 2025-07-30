@@ -1,0 +1,2649 @@
+{
+  "response": {
+    "sonstiges": {
+      "positive_points": [
+        {
+          "point": "Vielseitigkeit des Unternehmens",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Junge und internationale Teams",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute Betreuung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Professionalität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_8",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Möglichkeit zur eigenverantwortlichen Arbeit an innovativen Softwaretest-Management-Tools",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Technische Verantwortung und Möglichkeit zur Etablierung unternehmensweiter Standards",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Flexibilität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Gute Erreichbarkeit des Arbeitsplatzes",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmen in einer Zukunftsbranche tätig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Möglichkeit zur unbezahlten Freistellung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Flache Hierarchien",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_33",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Respektvoller Umgang mit Mitarbeitern",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_33",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute formelle Rahmenbedingungen (z.B. Sabbatical)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_35",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Guter Umgang mit neuen Technologien",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_41",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Großartige Produkte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Positives Image aufgrund des Namens 'Bosch'",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Kultur des Zusammenhalts und der Kollaboration unter Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gute Betriebskantine",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_55",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Viele Pausenmöglichkeiten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gut geregelte interne Abläufe",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Vielfältige interne Entwicklungsmöglichkeiten durch unterschiedliche Bereiche und Branchen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Vorteile der Unternehmensgröße",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Sozialkompetenz des Unternehmens",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_78",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Klimaneutrale Produktion von Mobility Produkten und Dienstreisen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Professionelle interne Prozesse bei Geschäftsbereichs-Abspaltung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Stabiler Arbeitgeber",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Sachlich umgängliches Betriebsklima",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Starke Innovationskraft",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Erfahrene Personalchefs",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Hoher Gestaltungsfreiraum",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_93",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Stetige Verbesserung der Arbeitsabläufe",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_94",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Allüren bei Führungskräften",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_94",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Respektvolle Unternehmenskultur",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Großer Wert auf Nachhaltigkeit und Vielfalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Hohes soziales Engagement",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Verlust der klassischen Unternehmenswerte und Gründerprinzipien",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Verlagerung von Geschäft, Investitionen und Arbeitsplätzen in Billiglohnländer",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Manager agieren ohne Herzblut und Fokus auf Qualität und Mitarbeiterbindung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kurzfristige Anreizsysteme und Boni auf Managementebene schaden dem Unternehmensruf",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an klarer Unternehmensvision und strategischer Ausrichtung",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Outsourcing arbeitsintensiver Aufgaben an Partner in Asien",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ineffiziente und langwierige Prozesse (inkl. zu langer Entscheidungswege)",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_94",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Schlechtes Image und unwürdiger Umgang durch die HR-Abteilung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an neuen Produkten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Einbeziehung der Mitarbeiter bei Aufgabenumsetzung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Entscheidungsfreudigkeit im Management",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_8",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_16",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Übermäßige Bürokratie",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_8",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Dominanz von kaufmännischen Interessen über technische Expertise",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Führungsperspektive zur Sicherung der Entwicklung in Deutschland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an echter Führung in den oberen Etagen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Ehrlichkeit und Vertrauen (Anlügen der Mitarbeiter)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Übernahme von Verantwortung für Missmanagement durch die Führung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Bestrafung unschuldiger Mitarbeiter für Managementfehler",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Konsequenzen für leistungsschwache Mitarbeiter",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Drohende oder stattfindende Reduzierung der Homeoffice-Möglichkeiten",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_13",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Besetzung von Führungspositionen nach Quote statt Qualifikation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Verlagerung von Know-how in Niedriglohnländer",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Unterstützung und Bestrafung von Opfern sexueller Belästigung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Aufgeblähte und ineffiziente Unternehmensstrukturen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Existenz von Vetternwirtschaft",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Chronische Unterbesetzung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute Mitarbeiter werden mit mehr Arbeit statt angemessener Entlohnung belohnt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Überlastete Teamleiter mit zu wenig Zeit für Mitarbeiterfragen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Dringender Personalmangel",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ungerechte Lohnunterschiede für gleiche Tätigkeiten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Bonussystem nicht ausreichend, um Grundgehalt wettbewerbsfähig zu machen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Erniedrigende Behandlung durch Kunden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Teamaktivitäten werden nicht als Arbeitszeit angerechnet",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Unbegründete Abmahnungen und Kündigungen langjähriger Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Fürsorgepflicht und Missachtung langjähriger Leistung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangel an Wertschätzung von Mitarbeiterleistungen und fehlendes Vertrauen",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Unmenschliche und gesetzeswidrige interne Verfahren im Umgang mit Schwerbehinderten und langjährig Beschäftigten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Schulung von Führungskräften und HR in Konfliktbewältigung und Kommunikation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ungenügende Parkmöglichkeiten",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_21",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Betriebskantine",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_21",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Aufforderung zur Umgehung des Arbeitszeitgesetzes und sicherheitsrelevanter Aspekte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Häufige Systemausfälle und lange Wartezeiten für deren Behebung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Nichteinhaltung von Zusagen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmen gilt als toxisches Beispiel in der Call-Center-Branche",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Warnung an Arbeitssuchende mit Selbstachtung vor dem Unternehmen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Ausbremsung von Engagement, Sorgfalt und selbstständigem Denken",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Qualitätsmessung basiert auf trivialen Merkmalen statt Kundenfokus",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Ständiger Druck und Kontrolle bezüglich Bearbeitungszeiten und Pausen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnder Raum für Selbstentfaltung durch zu enge Vorgaben",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Aufstiegsmöglichkeiten sind unattraktiv und gesundheitsgefährdend",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitszeiten werden extern diktiert und Mitarbeitern aufgezwungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Zwang zur Unterordnung unter Auftraggeber, inklusive unangebrachter Regeln bei Besuchen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mentale Überlastung durch ständigen Aufgabenwechsel",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Zwang zur Durchführung sinnloser Aufgaben",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mehr Aufgaben ohne Gehaltserhöhung trotz Freiheiten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Neue Projekte beinhalten ungewollte Anrufe und mangelnden Kundenservice",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Druck auf kranke Mitarbeiter und Kündigungsversuche durch Auflösungsverträge",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Leitbild und Werte dienen nur als Mittel zum Zweck und werden nicht gelebt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Inkompetente und überforderte Niederlassungs- und Vertriebsleiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_30",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Forderung nach Entlassung des Niederlassungsleiters aufgrund Inkompetenz",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_30",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Kontinuität, Kreativität und Anpassungsfähigkeit der Führungskräfte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Wilde Versprechen, ständiger Strategiewechsel und Verantwortungsverlagerung durch die Führung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter werden als Nutzvieh angesehen und nicht respektiert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Reduzierung der Themen- und Produktvielfalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Personalabteilung drängt Mitarbeiter aggressiv aus dem Unternehmen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Massiver Druck und Mobbing zur Annahme von Abfindungsangeboten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Blinde Verlagerung von Stellen ins Ausland ohne transparente Kosten- und Qualitätsanalyse",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Nachhaltigkeit und Offenheit für Neues",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_33",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelhafte Kompetenz im Top-Management (Forderung nach Entlassung von VPs)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_35",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Umfeld, in dem kritische Aussagen nicht erwünscht sind",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_35",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Neuer Standort ist teilweise nicht barrierefrei",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Zu viel inhaltsleeres Gerede, Unverbindlichkeit und Selbstbeweihräucherung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Karriere- und Gehaltssprünge sind vorrangig externen oder Trainees mit Mentor vorbehalten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Veraltete Mitarbeiterentwicklung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Berufliche Entwicklung basiert auf Politik und Netzwerk statt Leistung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Aufstieg durch Ellenbogen und Durchsetzungsvermögen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Lohnunterschiede: Externe oder Trainees erhalten leichter bessere Gehälter als langjährige interne Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Bevorzugung von Trainees bei Beförderungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unterbindung internationaler Zusammenarbeit durch Reisebeschränkungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kultur des Lästerens, Verpetzens und der Konkurrenz unter Kollegen",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Inkompetente Vorgesetzte, die Posten durch Vetternwirtschaft erhielten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter fühlen sich als Fußabtreter und wertlos",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Kontrolle und Fehlverhalten von Führungskräften im Einkauf",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Führungskraft kümmert sich nur um eigene Karriere und agiert aggressiv/unmenschlich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Führungskraft zeigt frauenfeindliches und ausländerfeindliches Verhalten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Führungskraft blockiert Kalender mit privaten Terminen, macht Terminplanung unmöglich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unfähigkeit der Abteilungsleitung, problematische Führungskräfte zu entfernen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Diskussion über irrelevante oder überholte Probleme",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde und verzögerte Berücksichtigung von Verbesserungsvorschlägen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Arbeitsumfeld gleicht einem Käfig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Ungenügender interner Support",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Ersatzteilversorgung verursacht unnötige Probleme",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Erstellung sinnloser Dokumentationen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Fokus auf Schuldzuweisung statt Lösungsfindung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende klare Kommunikation von Langzeitzielen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_41",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Einarbeitung und Betreuung von Technikern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Unprofessionelles Verhalten gegenüber Kunden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fehlendes Rechtsbewusstsein und mangelndes Verantwortungsbewusstsein",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Stellenkürzungen verursachen demotivierende Arbeitsstimmung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Führung, Ideen und Innovationskraft",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Überladene Prozesse machen kompetente Mitarbeiter ineffizient",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Verlust der Unternehmensidentität und Produktqualität durch Produktionsverlagerung ins Ausland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_43",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Coach lästert über Mitarbeiter und ist ungeeignet für Schulungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Eigenständiges Denken, freie Entfaltung und Verbesserungsvorschläge sind unerwünscht",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiter werden als austauschbare Subjekte behandelt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_46",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Führungskräfte verharren in überholten hierarchischen Systemen und sehen Mitarbeiter als austauschbar",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fokus auf Quantität statt Qualität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Schulung neuer Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Entscheidungsfreudigkeit unter Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Männerbürokratie dominiert im mittleren Management, mangelnde Internationalität und Diversität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_49",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Verbesserungsbedarf bei der Entscheidungsfindung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Zu langsame Einarbeitungsphase für neue Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Absprache bei Ziel- und Friständerungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung des Menschen als Individuum",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_51",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an Stellen für Berufseinsteiger und fehlende Übernahme von Werkstudenten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Geringer Anteil junger Mitarbeiter, hoher Altersdurchschnitt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Intransparente Kriterien für berufliches Vorankommen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Anwendung von QMM-Methoden bei Vorgesetzten und Mitarbeitern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_55",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unrealistische Erwartungen an die wirtschaftliche Performance",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Branchenkenntnis",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Unangepasste Erwartungen an den Geschäftserfolg",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Image in der Medizintechnik muss noch aufgebaut werden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Allgemeine Funktionsstörungen im Betrieb",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes direktes Ansprechen von Problemen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Vorbildfunktion der Meister",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Priorisierung und Bearbeitung ernsthafter Probleme",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelndes unternehmerisches Denken",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Offenheit für Veränderungen und kontraproduktiver Kurs",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Verfilzte Karrierewege",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Beförderungspolitik bevorzugt Frauen, junge Mitarbeiter und Low-Cost-Standorte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Forderung nach Abschaffung von 'Return to Office' Anweisungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Beständigkeit von Managemententscheidungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnder Fokus auf neue Geschäftsfelder in Deutschland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fokus auf Rendite statt Mitarbeiterwohl",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unrealistische Projektpläne und Druck durch 'China-Speed'",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Rückführung von Sozialleistungen und Verlagerung von Jobs ins Ausland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Zickzack-Kurs des Managements und unnachvollziehbare Entscheidungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Sparen bei Mitarbeitern statt Reduzierung des Management-Wasserkopfs",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Jobabbau in Deutschland und Verlagerung ins Ausland als primäre Management-Strategie",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Aufbau von Kollegen im Ausland führt zum Abbau eigener Jobs",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Dominanz von Börsenfantasien im oberen Management",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unzureichende Schulungen zu neuen Produkten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Abstimmung zwischen Produktentwicklung und Technikern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Spezifischer Bereich des Unternehmens ist kaum bekannt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Hohe Anforderungen für den Einstieg (z.B. Master-Abschluss)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Drastische Personalreduzierung beeinträchtigt Arbeitsatmosphäre und Jobsicherheit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Frustrierend langsame Entwicklungsprozesse",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Innovationsfreiheit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Bürokratie hemmt kreative Lösungsansätze",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Dringende Prozessoptimierung zur Erhöhung der Entwicklungsgeschwindigkeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Unzureichende Arbeitsverteilung und hoher Druck durch Personalabbau",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende klare Verbesserungsmaßnahmen und Transparenz der Unternehmensstrategie",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Geringe Gehälter führen zu Fluktuation und hohen Schulungskosten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Wahlfreiheit bei Gehaltsnachweis (Brief/Digital) ist nicht umweltschonend genug",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Abbaupläne werden zu abrupt umgesetzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Unklare Zukunftsperspektive für Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Investitionen in Innovation, Digitalisierung und Mitarbeiterweiterbildung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_71",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Problematisches Verhalten des Betriebsrats",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelhafte Leistung im Mittelmanagement",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Angebot von Abfindungen an ältere Kollegen zur Entlassung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Nichtbeachtung von Vorfällen im Arbeitsumfeld",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_74",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Schwierige wirtschaftliche Lage beeinträchtigt Arbeitsatmosphäre",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_75",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Verlust der Sinnhaftigkeit der Arbeit ('Purpose')",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Bereitschaft zur 'Extra-Meile' wird nicht honoriert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Verlust alter Tugenden wie Wertschätzung, Kundenorientierung und Fairness gegenüber Lieferanten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_76",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Flexibilität und Geschwindigkeit bei Entscheidungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Stellenabbau nach Gießkannenprinzip",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlender gezielter Stellenabbau und Aufbau von Zukunftsfeldern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Vorbildfunktion der obersten Führungsebene",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Starker Fokus auf Titel statt Inhalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Diskrepanz zwischen propagiertem und gelebtem Umwelt-/Sozialbewusstsein",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Verwechslung mit Bosch Siemens Hausgeräte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Dominanz von interner Politik und EBIT-Zielen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Smart-Building-Integrator-Mission ohne notwendige Investitionen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Geringe Toleranz für konstruktive Kritik und mangelndes Lernen aus Fehlern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Beförderung von Ja-Sagern und unkritischen Personen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Verantwortungsübernahme von Managern für Fehlinvestitionen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Work-Life-Balance ist nur durchschnittlich",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Zu wenig Besprechungsräume und fehlendes Desk-Booking-System im neuen HQ",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Männer werden in einigen Bereichen benachteiligt durch starke Förderung von Frauen/Diversität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Möglichkeit für 100% Homeoffice zur Mitarbeiterbindung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_83",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Streichung der Betriebszugehörigkeitsprämie und verstärkter Abbau durch Altersteilzeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an attraktiven Benefits wie Hansefit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Regelmäßiger Managementwechsel führt zu Teamumstellungen und Ineffizienz",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_87",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Aktuelles Management und ständiger Kampf um deutsche Arbeitsplätze/Standorte",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Unternehmen wird wie eine AG behandelt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde mutige Investitionen in Deutschland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Management ohne Verständnis für Unternehmen und Mitarbeiterwertschätzung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Flexibilität des Unternehmens",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_90",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde leistungsgerechte Belohnungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_96",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Verlust interessanter Aufgaben durch Komplexitätsreduktion",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_97",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Existenz eines Zwei-Klassen-Systems unter Mitarbeitern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Notwendigkeit der Verhaltensprüfung von Teamleitern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Fehlendes System zur Belohnung überdurchschnittlicher Leistung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

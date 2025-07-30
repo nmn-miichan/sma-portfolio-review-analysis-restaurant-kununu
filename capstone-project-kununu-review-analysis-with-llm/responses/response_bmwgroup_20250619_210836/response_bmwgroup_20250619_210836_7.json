@@ -1,0 +1,588 @@
+{
+  "response": {
+    "umgang_aeltere_kollegen": {
+      "positive_points": [
+        {
+          "point": "Sehr guter Umgang mit älteren Kollegen",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bmwgroup_11",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bmwgroup_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_131",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_185",
+              "employee_type": "Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bmwgroup_200",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Erfahrung älterer Kollegen wird geschätzt",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bmwgroup_109",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen besetzen wichtige Positionen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_16",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Wertschätzender Umgang mit Mitarbeitern über 55 Jahren",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_34",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Tadelloser und wertschätzender Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_51",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Hoher Anteil langjähriger/älterer Mitarbeiter im Unternehmen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_71",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Rücksichtnahme auf ältere Kollegen bei körperlich schweren Arbeiten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_117",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Positiver Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_124",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Respektvoller Umgang unter allen Mitarbeitern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_127",
+              "employee_type": "Auszubildende:r",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen haben bombensichere Verträge und viele Benefits",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_136",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen unterstützen jüngere/neue Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Altersteilzeit (ATZ) wird weiterhin angeboten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_184",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Rücksichtnahme auf ältere Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_191",
+              "employee_type": "Führungskraft",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Fairer Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_195",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Sehr respektvoller Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_149",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Kollegialer Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_155",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen sind offen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_161",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Respektvoller Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Bevorzugung älterer Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_29",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Unzufriedenheit unter älteren Kollegen außerhalb von Führungspositionen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung für externe Fachkräfte mit langer Berufserfahrung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Wissensträger (ältere Kollegen) horten Wissen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_14",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Sehr schlechter Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_21",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Respektloses Verhalten gegenüber älteren Kollegen, insbesondere von Führungskräften",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Erfahrung wird nicht wertgeschätzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung älterer Kollegen",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bmwgroup_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bmwgroup_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_120",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Ältere, langjährige Mitarbeiter werden bevorzugt behandelt, auch bei geringerem Bedarf",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_37",
+              "employee_type": "Zeitarbeiter/in",
+              "field": "Design / Gestaltung"
+            },
+            {
+              "review_id": "bmwgroup_125",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mieser Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_40",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden ausgenutzt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_43",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Beförderung/Karrierechancen für ältere Kollegen basieren auf Beziehungen statt Leistung",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bmwgroup_45",
+              "employee_type": "Ex-Zeitarbeiter/in",
+              "field": "Produktion"
+            },
+            {
+              "review_id": "bmwgroup_46",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen haben es in bestimmten Bereichen schwerer",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_53",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Altersteilzeit- und Abfindungsangebote vermitteln mangelnde Wertschätzung älterer Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Verbesserungsbedarf im Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_79",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Gleichberechtigung wird mit zunehmendem Alter schwieriger",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_113",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Einige alteingesessene Kollegen sind naiv und arrogant",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_124",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Kein Umgang/Umgangsformen mit älteren Kollegen vorhanden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_129",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Förderung für Mitarbeiter im rentennahen Alter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Nötigung zur Altersteilzeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_137",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen erbringen keine Leistung bei hohen Gehältern und sind unkündbar",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_141",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Finanzen / Controlling"
+            }
+          ]
+        },
+        {
+          "point": "Nette ältere Kollegen halten sich aus Konflikten heraus und schauen weg bei Problemen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_143",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Langjährige, treue Mitarbeiter (ältere Kollegen) werden aufs Abstellgleis gestellt und ihre Leistung nicht gewürdigt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_156",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Neuere/jüngere Kollegen werden von alteingesessenen Kollegen schlecht behandelt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_160",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden von jüngeren geärgert und erhalten keine Unterstützung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_163",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Mega schlechter und respektloser Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_169",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Unmöglicher Umgang mit älteren Kollegen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_174",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen sind zurückhaltend bei der Nutzung neuer Technik",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_180",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen ziehen sich zurück und überlassen jüngeren die Arbeit",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_187",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Ältere Kollegen werden als zu teuer empfunden und sollen das Unternehmen verlassen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bmwgroup_194",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

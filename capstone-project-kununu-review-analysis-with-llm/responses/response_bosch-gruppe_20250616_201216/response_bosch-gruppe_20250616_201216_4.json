@@ -1,0 +1,588 @@
+{
+  "response": {
+    "karriere_weiterbildung": {
+      "positive_points": [
+        {
+          "point": "Umfassende Entwicklungs- und Aufstiegsmöglichkeiten bei Eigeninitiative und internen Herausforderungen",
+          "count": 8,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Service Solutions Leipzig"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_69",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Robert Bosch GmbH"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gute Unterstützung bei der Suche nach passender Weiterbildung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_5",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Möglichkeiten zur Weiterbildung und Teilnahme an externen Trainings (z.B. bei Anlagenherstellern)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_27",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Robert Bosch Semiconductor Dresden"
+            }
+          ]
+        },
+        {
+          "point": "Hervorragende Möglichkeiten zum Sammeln von Berufserfahrung während des Studiums",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Vielfältige und vorbildliche Schulungs- und Weiterbildungsangebote",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Service Solutions"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Umfassende Bildungsangebote, inkl. berufsbegleitende Qualifizierungen und IHK-Abschlüsse",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": "Bosch Service Solutions Berlin"
+            }
+          ]
+        },
+        {
+          "point": "Leistungsorientierte Weiterbildungschancen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Entwicklungsmöglichkeiten sind an Management-Konformität, geringe Kollegialität und übermäßigen Arbeitseinsatz geknüpft",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildung dient hauptsächlich der Stellensuche und Kopfzahlreduktion",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende oder stark reduzierte Karriere- und Weiterbildungsmöglichkeiten in Deutschland",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_14",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_77",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Berufliches Fortkommen wird durch interne Probleme/Meldungen behindert",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_15",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Karriere- und Weiterbildungschancen sind stark von Beziehungen (Vitamin B) abhängig",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Robert Bosch GmbH"
+            },
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Thermotechnik GmbH, Buderus Deutschland"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde gezielte Förderung der individuellen Entwicklung trotz Engagement",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Robert Bosch GmbH"
+            }
+          ]
+        },
+        {
+          "point": "Kommunizierte Karriere- und Weiterbildungsmöglichkeiten sind in der Praxis nicht gegeben",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Aufstiegsmöglichkeiten zu höheren Positionen sind unattraktiv aufgrund hoher Belastung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Vorhandene Karriere- und Weiterbildungsmöglichkeiten sind fragwürdig in ihrer Attraktivität",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            }
+          ]
+        },
+        {
+          "point": "Investitionen in Mitarbeiter-Weiterbildung nehmen ab, da Mitarbeiter als unwichtig erachtet werden",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Karrierefortschritt erfordert Anpassung an das Kollektiv und Assimilation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_31",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Design / Gestaltung"
+            }
+          ]
+        },
+        {
+          "point": "Personalabteilung unterstützt nicht bei Weiterentwicklung und Karriereperspektiven, sondern drängt Mitarbeiter aus dem Unternehmen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_32",
+              "employee_type": "Führungskraft",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Wertschätzung älterer Mitarbeiter für Karriereentwicklung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_34",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Karriere- und Weiterbildungsmöglichkeiten sind seit einigen Jahren nicht mehr im Fokus",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_36",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Berufliche Entwicklung und Gehaltssprünge sind stark von externer Herkunft, Trainee-Status oder starken Mentoren abhängig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mitarbeiterentwicklung und Förderung sind veraltet und überarbeitungsbedürftig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Karriere und berufliche Entwicklung basieren auf Politik und Netzwerk statt auf guten Ideen und Leistung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Fähigkeit vieler Führungskräfte zur Talentförderung und Mitarbeiterentwicklung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Keine Aufstiegs- oder Weiterbildungsmöglichkeiten (generell)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Gute Mitarbeiter werden nicht gefördert, um deren Wechsel in andere Abteilungen zu verhindern",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Kein Interesse an der Weiterentwicklung der Mitarbeiter von Seiten der Führungskräfte",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Building Technologies"
+            },
+            {
+              "review_id": "bosch-gruppe_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Healthcare Solutions GmbH"
+            }
+          ]
+        },
+        {
+          "point": "Interne Schulungen bringen keinen Nutzen, da Förderung und Aufstieg von persönlicher Beziehung zur Teamleitung abhängen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Service Solutions Magdeburg GmbH"
+            }
+          ]
+        },
+        {
+          "point": "Mangel an Übernahmemöglichkeiten für Werkstudenten trotz guter Arbeit",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_53",
+              "employee_type": "Ex-Werkstudent/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Kriterien für berufliches Vorankommen sind intransparent und hängen von nicht-fachlichen Faktoren ab",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Robert Bosch GmbH (Stuttgart-Feuerbach)"
+            }
+          ]
+        },
+        {
+          "point": "Fehlendes systematisches Konzept zur Förderung aller Mitarbeiter",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_54",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Robert Bosch GmbH (Stuttgart-Feuerbach)"
+            }
+          ]
+        },
+        {
+          "point": "Stagnierende Karriere- und Weiterentwicklungsmöglichkeiten aufgrund wirtschaftlicher Situation",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_56",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Talent und Potenzial werden nicht gesehen oder gefördert; Beziehungen sind wichtiger für Karriere",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        },
+        {
+          "point": "Karrierewege sind undurchsichtig und von Seilschaften geprägt",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Beförderungspolitik bevorzugt Frauen, Low-Cost-Standorte und jüngere Mitarbeiter",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Einsparungen bei Karriere- und Weiterbildungsmöglichkeiten",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_60",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_88",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Anzeichen von Einschränkungen bei Schulungsangeboten (allgemein)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Mangelhafte oder unzureichende Schulungen zu neuen Produkten",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_62",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Home Comfort Group"
+            }
+          ]
+        },
+        {
+          "point": "Aktuelle Umstrukturierungen können zu Verzögerungen bei Karriere- und Weiterbildung führen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildungsmöglichkeiten führen nicht zu hohem finanziellem Gewinn",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Bosch Service Solutions"
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildungen haben kaum Auswirkungen auf tatsächliche Entwicklungsmöglichkeiten und konkrete Karriereperspektiven",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Weiterbildungsmöglichkeiten sind von der subjektiven Einschätzung des Vorgesetzten abhängig",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

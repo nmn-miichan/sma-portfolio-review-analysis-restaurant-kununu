@@ -1,0 +1,73 @@
+# Review-Analyse für Unternehmensinsights
+
+## Aufgabe
+Analysiere die bereitgestellten Mitarbeiter-Reviews systematisch und extrahiere positive und kritische Punkte für die definierten Kategorien. Erstelle eine strukturierte JSON-Ausgabe (results.json) mit detaillierten Insights und Häufigkeitsanalysen.
+
+## Kategorien für die Analyse
+6. **Umwelt-/Sozialbewusstsein** (Nachhaltigkeit, CSR, gesellschaftliche Verantwortung)
+
+## Analyseprozess
+1. **Initialisierung**: Beginne mit einer leeren results.json Struktur
+2. **Iterative Analyse**: 
+   - Analysiere jeden Review einzeln
+   - Prüfe für jeden extrahierten Punkt, ob er bereits in results.json existiert. Behandle dabei semantisch ähnliche Aussagen als denselben Punkt. Beispiel: "schlechte Bezahlung" = "niedriger Lohn" = "unterdurchschnittliches Gehalt"
+   - **Falls vorhanden**: Erhöhe count um 1 und füge neue Referenz zu references hinzu
+   - **Falls neu**: Erstelle neuen Punkt mit count = 1 und erster Referenz
+3. **Vollständigkeit**: Fahre fort bis alle Reviews analysiert sind
+
+## Diese Textabschnitte sollen ebenfalls analysiert werden
+- "Gut am Arbeitgeber finde ich"
+- "Schlecht am Arbeitgeber finde ich" 
+- "Verbesserungsvorschläge"
+
+## Extraktionsregeln
+1. **Spezifität**: Jeder Punkt sollte ein konkreter und eindeutiger Satz sein; die Aussagen der Reviews können in Standardtexte umformuliert werden.
+2. **Präzision**: Beschreibe Punkte klar und verständlich
+3. **Sprache**: Alle Sätze sind ausschließlich auf Deutsch zu verfassen; bei Bedarf übersetze sie.
+
+## Gewünschte JSON-Struktur
+"umwelt_sozialbewusstsein": {
+  "positive_points": [
+    {
+      "point": "Starkes Engagement für Nachhaltigkeit und gesellschaftliche Verantwortung",
+      "count": 3,
+      "references": [
+        {
+          "review_id": "Firmenname_6",
+          "employee_type": "Angestellte/r oder Arbeiter/in",
+          "field": "Marketing / Produktmanagement"
+        },
+        {
+          "review_id": "Firmenname_13",
+          "employee_type": "Führungskraft",
+          "field": "Forschung / Entwicklung"
+        },
+        {
+          "review_id": "Firmenname_21",
+          "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+          "field": "Personal / HR"
+        }
+      ]
+    }
+  ],
+  "critical_points": [
+    {
+      "point": "Mangelndes Umweltbewusstsein und fehlende CSR-Initiativen",
+      "count": 2,
+      "references": [
+        {
+          "review_id": "Firmenname_9",
+          "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+          "field": "Produktion / Fertigung"
+        },
+        {
+          "review_id": "Firmenname_16",
+          "employee_type": "Angestellte/r oder Arbeiter/in",
+          "field": "Vertrieb / Verkauf"
+        }
+      ]
+    }
+  ]
+},     
+
+Gib einfach den Inhalt der JSON-Datei aus. Füge keine Kommentare oder andere Sätze hinzu, da ich die Antwort direkt in die JSON-Datei schreiben werde.

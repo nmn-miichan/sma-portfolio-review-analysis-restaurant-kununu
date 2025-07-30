@@ -1,0 +1,587 @@
+{
+  "response": {
+    "gehalt_sozialleistungen": {
+      "positive_points": [
+        {
+          "point": "Sehr gutes Gehalt",
+          "count": 14,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_10",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_12",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_2",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_41",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_6",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Administration / Verwaltung"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_72",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_8",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_9",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Gute Sozialleistungen",
+          "count": 6,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_17",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_58",
+              "employee_type": "Führungskraft",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            },
+            {
+              "review_id": "bosch-gruppe_70",
+              "employee_type": "Führungskraft",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_81",
+              "employee_type": "Führungskraft",
+              "field": "Administration / Verwaltung"
+            }
+          ]
+        },
+        {
+          "point": "Tarifliche Bindung (IG Metall)",
+          "count": 5,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_5",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_65",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Pünktliche Gehaltszahlung",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_84",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Überdurchschnittliche Bezahlung in der Branche/Region",
+          "count": 3,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_82",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Hervorragendes Gehalt und erstklassige Sozialleistungen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_64",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Branchenübliches Gehalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_19",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute Bezahlung für Praktika",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_4",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_63",
+              "employee_type": "Ex-Praktikant/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Ständige Lohnentwicklung durch Tarifbindung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_95",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Leistungsbonus kann gutes Geld einbringen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_98",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Faires Gehalt (aber teils fairer für manche)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_39",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Beschaffung / Einkauf"
+            }
+          ]
+        },
+        {
+          "point": "Akzeptables Gehalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_25",
+              "employee_type": null,
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_42",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gute Gehaltsstruktur",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_80",
+              "employee_type": "Ex-Führungskraft",
+              "field": "Vertrieb / Verkauf"
+            }
+          ]
+        },
+        {
+          "point": "Gehalt ist gut (impliziert durch den Unternehmensnamen)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_50",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        }
+      ],
+      "critical_points": [
+        {
+          "point": "Geringes/unzureichendes Gehalt",
+          "count": 14,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_22",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_28",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Vertrieb / Verkauf"
+            },
+            {
+              "review_id": "bosch-gruppe_29",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Personal / Aus- und Weiterbildung"
+            },
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_66",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_67",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_7",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_86",
+              "employee_type": "Führungskraft",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_91",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_96",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_99",
+              "employee_type": "Auszubildende:r",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Wunsch nach höherer/angemessenerer Bezahlung und Leistungsanpassung",
+          "count": 7,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_18",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_20",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_66",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            }
+          ]
+        },
+        {
+          "point": "Mangelnde Gehaltsentwicklung und fehlende Leistungsbezogenheit",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_100",
+              "employee_type": "Führungskraft",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_26",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Marketing / Produktmanagement"
+            },
+            {
+              "review_id": "bosch-gruppe_45",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": null
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Tendenz zur Gehaltskürzung oder Reduzierung von Leistungen",
+          "count": 4,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_11",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_30",
+              "employee_type": "Ex-Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_57",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            },
+            {
+              "review_id": "bosch-gruppe_73",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "IT"
+            }
+          ]
+        },
+        {
+          "point": "Unfaire und nicht leistungsbezogene Gehälter; externe Einstellungen werden bevorzugt",
+          "count": 2,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_37",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            },
+            {
+              "review_id": "bosch-gruppe_92",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Fehlende Gewinnbeteiligung",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Schwieriger Erhalt von Leistungszulagen",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_38",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        },
+        {
+          "point": "Kompensation im Verhältnis zur Arbeitslast ist schlecht",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_3",
+              "employee_type": null,
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Keine Tarifbindung (nicht IG Metall)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_47",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Gehalt und Sozialleistungen waren früher besser",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_48",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": null
+            }
+          ]
+        },
+        {
+          "point": "Viel Verantwortung für schlechtes Gehalt",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_40",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Logistik / Materialwirtschaft"
+            }
+          ]
+        },
+        {
+          "point": "Umgehung deutscher Gehälter/Sozialleistungen durch Verlagerung ins Ausland",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_61",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Forschung / Entwicklung"
+            }
+          ]
+        },
+        {
+          "point": "Wunsch nach Einführung zusätzlicher Benefits (z.B. Hansefit)",
+          "count": 1,
+          "references": [
+            {
+              "review_id": "bosch-gruppe_85",
+              "employee_type": "Angestellte/r oder Arbeiter/in",
+              "field": "Produktion / Fertigung"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
