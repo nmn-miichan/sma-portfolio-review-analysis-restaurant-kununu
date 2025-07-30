@@ -1,0 +1,1 @@
+# sma-portfolio-review-analysis-restaurant-kununu
